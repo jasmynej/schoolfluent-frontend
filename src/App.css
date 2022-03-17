@@ -1,1 +1,30 @@
+.App {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.main-box {
+    background-color: rgb(250, 248, 248);
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    align-items: center;
+    justify-self: center;
+}
+#logo {
+    width: 50%;
+}
 
+#login-button {
+    background-color: #F3A51A;
+    border: none;
+    padding: 20px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 20px;
+    font-size: larger;
+}
+
+#login-button:hover {
+    background-color: #d69016;
+}
