@@ -1,0 +1,19 @@
+.dashboard-main {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+p {
+    font-size: 20px;
+}
+
+.main-info {
+    background-color: lavender;
+    width: max-content;
+    padding: 5px;
+    text-align: center;
+
+}
